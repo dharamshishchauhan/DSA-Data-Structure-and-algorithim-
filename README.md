@@ -5,10 +5,9 @@ This repository contains solutions and explanations for various Data Structures 
   ├── LinkedLists  
   ├── Stacks_Queues  
   ├── Trees  
-  ├── Graphs  
   ├── Sorting_Searching  
-  ├── DP  
-  ├── Bit_Manipulation  
+  ├── 
+  ├── 
   ├── Miscellaneous  
   ├── README.md  
 
