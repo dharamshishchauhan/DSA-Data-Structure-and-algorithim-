@@ -6,8 +6,8 @@ This repository contains solutions and explanations for various Data Structures 
   ├── Stacks_Queues  
   ├── Trees  
   ├── Sorting_Searching  
-  ├── 
-  ├── 
+  ├── chain hasing
+  ├── linear hasing
   ├── Miscellaneous  
   ├── README.md  
 
